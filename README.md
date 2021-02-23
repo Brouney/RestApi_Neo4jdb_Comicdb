@@ -1,4 +1,4 @@
-# Application RestApi for Neo4j database
+# Application RestApi for Neo4j database - storage of comics
 
 ### Object Comic:  
 GET http://localhost:8081/comics/  <br>
