@@ -29,3 +29,6 @@ POST http://localhost:8081/series/create <br>
 GET http://localhost:8081/stories/ <br>
 GET http://localhost:8081/stories/name <br>
 POST http://localhost:8081/stories/create <br>
+
+### How it looks in database
+![Przechwytywanie](https://user-images.githubusercontent.com/37865264/108840091-2a6a6900-75d6-11eb-8776-3149c38aa8e9.PNG)
