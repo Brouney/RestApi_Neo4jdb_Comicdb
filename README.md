@@ -1,5 +1,12 @@
 # Application RestApi for Neo4j database - storage of comics
 
+### Technologies:
+* Java
+* Spring
+* Neo4j
+* Cypher Query Language
+* RestApi
+
 ### Object Comic:  
 GET http://localhost:8081/comics/  <br>
 GET http://localhost:8081/comics/name <br>
